@@ -97,6 +97,6 @@ url : ```/client/1```
 
 ## POSTGRESQL Client table
 
-![](src/main/assets/Screenshot 2022-09-19 at 14.38.22.png)
+![](src/main/assets/client-table.png)
 
 
