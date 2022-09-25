@@ -8,6 +8,8 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
+
+// This is the controller class that would manage incpming http requests and trigger specific repository methods
 @RestController
 @RequestMapping(value = "/client")
 public class ClientController {
