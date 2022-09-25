@@ -14,6 +14,7 @@ import java.util.List;
 @RequestMapping(value = "/client")
 public class ClientController {
 
+    // This is the repository that holds our clients, and since it extends from JPArepository, it inherits some very nice methods to talk to the db
     @Autowired
     private ClientRepository clientRepository;
 
